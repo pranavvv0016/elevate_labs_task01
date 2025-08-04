@@ -33,8 +33,8 @@ pip install pandas
 🚀 Usage
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/pranavvv0016/elevate_labs_task01.git
+cd elevate_labs_task01
 
 Download the dataset:
 
@@ -46,7 +46,6 @@ Run the script:
 Execute the Python script from your terminal.
 
 python your_script_name.py
-
 📊 Output
 After running the script, the following will happen:
 
